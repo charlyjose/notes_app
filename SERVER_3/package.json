@@ -1,0 +1,14 @@
+{
+  "name": "notes_app_server_3",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "mongoose": "^5.9.16",
+    "nodemon": "^2.0.4",
+    "qrpc": "^1.1.6",
+    "uniqid": "^5.2.0"
+  }
+}

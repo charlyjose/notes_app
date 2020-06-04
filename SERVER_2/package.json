@@ -1,0 +1,15 @@
+{
+  "name": "notes_app_server_2",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "cuid": "^2.1.8",
+    "mongoose": "^5.9.16",
+    "nodemon": "^2.0.4",
+    "qrpc": "^1.1.6"
+  }
+}
