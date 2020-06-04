@@ -1,6 +1,10 @@
 SYSTEM ARCHITECTURE
 -------------------
 
+
+
+<img src="https://github.com/charlyjose/wt/raw/master/architecture_diagram.png">
+
                                         
                                                                   ==================
                                                                   ||   SERVER_2   ||

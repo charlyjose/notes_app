@@ -140,6 +140,11 @@ RPC API (RPC IMPLEMENTATION OF ALL THE ABOVE REST REQUESTS)
     update
     delete
 
+
+
+<img src="https://github.com/charlyjose/wt/raw/master/routes.png">
+
+
                                                                     
                            signup, getkey, newkey, newpassword, authkey
 ================== ------------------------------------------------------------> ==================
