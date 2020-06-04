@@ -6,9 +6,11 @@ NOTES APP
 
 SETTING UP THE SYSTEM
 ---------------------
+'''
 > SERVER_2/npm install
 > SERVER_3/npm install
 > SERVER_1/npm install
+'''
 
 HOW TO RUN THE APP
 ------------------
@@ -19,6 +21,8 @@ START THE SERVER IN THE BELOW ORDER:
 
 TO START THE APP
 ----------------
+'''
 > SERVER_2/npm start
 > SERVER_3/npm start
 > SERVER_1/npm start
+'''
