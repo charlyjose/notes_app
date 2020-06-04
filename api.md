@@ -142,7 +142,7 @@ RPC API (RPC IMPLEMENTATION OF ALL THE ABOVE REST REQUESTS)
 
 
 
-<img src="https://github.com/charlyjose/wt/raw/master/routes.png">
+<img src="https://github.com/charlyjose/notes_app/blob/master/routes.png">
 
 
                                                                     

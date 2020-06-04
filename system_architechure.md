@@ -3,7 +3,7 @@ SYSTEM ARCHITECTURE
 
 
 
-<img src="https://github.com/charlyjose/wt/raw/master/architecture_diagram.png">
+<img src="https://github.com/charlyjose/notes_app/blob/master/architecture_diagram.png">
 
                                         
                                                                   ==================
