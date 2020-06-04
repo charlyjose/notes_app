@@ -2,37 +2,7 @@ SYSTEM ARCHITECTURE
 -------------------
 
 
-
-<img src="https://github.com/charlyjose/notes_app/blob/master/architecture_diagram.png">
-
-                                        
-                                                                  ==================
-                                                                  ||   SERVER_2   ||
-                                                                  ==================
-                                                                  /\       ^       \
-                                                                 /         |        \
-                                                                /          |         \
-                                             RPC CONNECTION    /           |          \    USER, PROFILE DATA
-                                             FOR USER CRUD    /            |           \   CRUD QUERY   
-                                             OPS             /             |            \
-                                                            /              |             \
-                                                           /               |              \
-                                                          /                |               \/
-==================      JSON CRUD REQs      ==================             |               ==================     /---------\      
-||    CLIENT    ||  --------------------->  ||   SERVER_1   ||             | GET USERID    ||   DATABASE   ||    <  MONGODB  >
-==================                          ==================             |               ==================     \---------/
-                                                          \                |               /\
-                                                           \               |              /
-                                                            \              |             /
-                                                             \             |            /
-                                            RPC CONNECTION    \            |           /   NOTE DATA
-                                            FOR NOTE CRUD      \           |          /    CRUD QUERY
-                                            OPS                 \          |         /
-                                                                 \         |        /
-                                                                  \/       |       /
-                                                                  ==================
-                                                                  ||   SERVER_3   ||
-                                                                  ==================
+<img src="https://github.com/charlyjose/wt/raw/master/wt.gif">
 
 
 
